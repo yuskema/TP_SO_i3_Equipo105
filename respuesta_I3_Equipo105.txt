@@ -10,9 +10,18 @@ git checkout main
 git pull
 git merge main
 
-Responde GAMMA:
+
+Responde GAMMA: (Dejó la cursada)
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Si
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git init
+git pull https://github.com/yuskema/TP_SO_i3_Equipo105.git main
+git add .
+git commit -m "beta"
+git push origin Rodriguez
