@@ -1,3 +1,7 @@
+Rodriguez Gian
+
+186.19.87.45 00:41
+
 processor	: 0
 vendor_id	: GenuineIntel
 cpu family	: 6
@@ -8,3 +12,5 @@ cpu MHz		: 3500.028
 cache size	: 3072 KB
 physical id	: 0
 siblings	: 2
+
+Hora 01:42
